@@ -4,3 +4,4 @@ torchvision
 Pillow
 fuzzywuzzy
 python-Levenshtein
+scikit-fuzzy
