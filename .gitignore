@@ -1,0 +1,8 @@
+venv/
+**pycache**/
+*.pyc
+dataset/
+app_backup.py
+uploads/
+__pycache__/
+venv/
