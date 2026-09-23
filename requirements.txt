@@ -5,3 +5,4 @@ Pillow
 fuzzywuzzy
 python-Levenshtein
 scikit-fuzzy
+scipy
